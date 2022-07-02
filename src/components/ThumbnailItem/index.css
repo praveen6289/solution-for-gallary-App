@@ -1,0 +1,22 @@
+/* Write your code here. */
+
+.item {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+.img-button {
+  cursor: pointer;
+  padding: 0px;
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}
+
+.thumbnail {
+  width: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
